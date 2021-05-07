@@ -15,13 +15,12 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+
         dadoImageView1.image = #imageLiteral(resourceName: "DiceFour")
         
         dadoImageView1.alpha = 0.5
-        
+
+
     }
-
-
+    
 }
-
