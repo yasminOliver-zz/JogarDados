@@ -40,6 +40,9 @@
                                 <state key="normal" title="Rolar Dados">
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
+                                <connections>
+                                    <action selector="rolarDadosprassed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="n1S-R6-7Qs"/>
+                                </connections>
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
